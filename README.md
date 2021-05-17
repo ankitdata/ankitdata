@@ -9,7 +9,11 @@ Using GCP, Hadoop, Apache Spark etc to create data pipelines to solve Big Data c
 \
 \
 \
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitdata&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast)  &emsp; &emsp [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitdata&layout=default)](https://github.com/ankitdata)
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitdata&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast)
+\
+
+\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitdata&layout=default)](https://github.com/ankitdata)
 
 <!--
 **ankitdata/ankitdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
