@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋, I'm Ankit! \
+I'm a Backend Developer and an Emerging Data Engineer!!
+
+Using GCP, Hadoop, Apache Spark etc to create data pipelines to solve Big Data challenges.
+
+🌱 I’m currently learning AWS.
+
+- 📫 How to reach me: **<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ankit-chilkalwar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ankit-chilkalwar?trk=profile-badge">Linkedin</a></div>**
+\
+\
+\
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitdata&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast)  &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitdata&layout=default)](https://github.com/ankitdata)
 
 <!--
 **ankitdata/ankitdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$~~~~~~~~~~~$
+
+
+
+
