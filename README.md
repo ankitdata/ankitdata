@@ -10,7 +10,7 @@ Using GCP, Hadoop, Apache Spark etc to create data pipelines to solve Big Data c
 \
 \
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitdata&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast)
-\
+
 
 \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitdata&layout=default)](https://github.com/ankitdata)
