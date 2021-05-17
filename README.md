@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ankit! \
+### Hi there 👋, I'm Ankit! 
 I'm a Backend Developer and an Emerging Data Engineer!!
 
 Using GCP, Hadoop, Apache Spark etc to create data pipelines to solve Big Data challenges.
