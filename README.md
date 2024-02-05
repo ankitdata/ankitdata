@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Ankit! 
-I'm a Backend Developer and an Emerging Data Engineer!!
+I'm a Wokring as Data Engineer!!
 
-Using GCP, Hadoop, Apache Spark etc to create data pipelines to solve Big Data challenges.
+Using GCP,Apache Spark, Airflow to create Batch and streaming data pipelines to solve Big Data challenges.
+
 
 🌱 I’m currently learning Azure.
 
