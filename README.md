@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ankit! 
-I'm a Wokring as Data Engineer!!
+I'm a Working as Data Engineer!!
 
 Using GCP,Apache Spark, Airflow to create Batch and streaming data pipelines to solve Big Data challenges.
 
